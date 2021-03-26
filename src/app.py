@@ -3,7 +3,7 @@ import json
 app = Flask(__name__)
 
 todos = [
-            {"label": "My first task", "done": False},
+            {"label": "Feed the dogs", "done": False},
             {"label": "Clean the house", "done": False}
         ]
 
